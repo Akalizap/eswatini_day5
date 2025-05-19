@@ -1,0 +1,10 @@
+ls – List files and directories
+
+cd – Change directory
+
+pwd – Show current directory path
+
+mkdir – Create a new directory
+
+rm – Remove a file or directory
+
