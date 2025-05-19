@@ -1,0 +1,2 @@
+ls: list files
+Pwd: print working directory.
